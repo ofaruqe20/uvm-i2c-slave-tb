@@ -1,0 +1,16 @@
+
+# Simulator artifacts
+*.log
+*.history
+*.wlf
+*.vcd
+*.shm
+*.key
+
+# Xcelium
+INCA_libs/
+xcelium.d/
+waves/
+
+# External RTL (do not commit)
+rtl/i2c_slave.v
